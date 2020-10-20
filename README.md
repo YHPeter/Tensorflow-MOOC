@@ -1,2 +1,24 @@
 # Tensorflow-MOOC
-## Chinese MOOC Courses URL: https://www.icourse163.org/learn/youdao-1460578162#/learn/announce
+### Chinese MOOC Courses URL
+
+https://www.icourse163.org/learn/youdao-1460578162#/learn/announce
+
+## Dataset Downloding Places:
+
+### Horses and Humans
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/validation-horse-or-human.zip
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
+
+### Cat and Dog
+
+https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
+
+### Sign MNIST
+
+https://www.kaggle.com/datamunge/sign-language-mnist/home
+
+### RPS
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
