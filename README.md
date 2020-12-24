@@ -22,3 +22,7 @@ https://www.kaggle.com/datamunge/sign-language-mnist/home
 
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
+
+### News Headlines Dataset For Sarcasm Detection
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json
