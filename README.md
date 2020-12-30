@@ -26,3 +26,9 @@ https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
 ### News Headlines Dataset For Sarcasm Detection
 
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json
+
+### Text Generator
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof.txt。
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt
