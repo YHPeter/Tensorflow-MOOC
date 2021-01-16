@@ -1,4 +1,5 @@
 # Tensorflow-MOOC
+
 ### Chinese MOOC Courses URL
 
 https://www.icourse163.org/learn/youdao-1460578162#/learn/announce
@@ -32,3 +33,13 @@ https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof.txt
 
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt
+
+## Notebooks Environment
+
+### numpy
+
+### jupyter notebook
+
+### tensorflow >= 2.2.0
+
+### tensorflow >= 4.1.0
