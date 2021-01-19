@@ -34,7 +34,7 @@ https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof
 
 https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt
 
-## Notebooks Environment
+## Notebooks Environment:
 
 ### numpy
 
@@ -42,7 +42,7 @@ https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt
 
 ### tensorflow >= 2.2.0
 
-### tensorflow >= 4.1.0
+### tensorflow_dataset >= 4.1.0
 
 ## TensorFlow 入门实操课程
 
