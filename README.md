@@ -44,6 +44,29 @@ https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt
 
 ### tensorflow_dataset >= 4.1.0
 
+## TensorFlow introductory practical course
+
+- Part 1: The first course in deep learning with TensorFlow
+   - Chapter 2: Introduction to Computer Vision
+   - Chapter 3: Introduction to convolution
+   - Chapter 4: More complex image applications
+- Part 2: Machine Vision - Image Classification
+   - Chapter 5: Basic Application of Image Classification
+   - Chapter 6: Transfer Learning
+   - Chapter 7: Image Multivariate Classification
+- Part 3: Natural Language Processing
+   - Chapter 8: Entryization and Serialization
+   - Chapter 9: Word Embedding
+   - Chapter 10: Exploring Recurrent Neural Networks
+   - Chapter 11: Text Generation
+- Part 4: Sequences, Time Series and Forecasting
+   - Chapter 12: Sequences and Time Series
+   - Chapter 13: How to generate RNN network samples
+   - Chapter 14: RNN Time Series Prediction
+   - Chapter 15: Bidirectional LSTM Time Prediction
+- Part 5: Introduction to TensorFlow Lite
+   - Chapter 16: Introduction to TensorFlow Lite
+
 ## TensorFlow 入门实操课程
 
 - 第一部分：TensorFlow深度学习的第一门课程
